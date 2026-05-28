@@ -6,4 +6,5 @@ Python solutions to HackerRank problems, with explanations and test cases.
 
 | File | Problem | Topic |
 |------|---------|-------|
+| [SalesByMatch.py](SalesByMatch.py) | Sales by Match | Hash Map |
 | [TimeConversion.py](TimeConversion.py) | Time Conversion | Strings |
